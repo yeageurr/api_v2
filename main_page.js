@@ -10,7 +10,14 @@ function quote() {
   window.location.href = 'quote.html';
 }
 
-function getCode() {
-  open('https://github.com/yeageurr/api_application/blob/main/fetching.js')
+function catAPI() {
+  open('https://github.com/yeageurr/api_v2/blob/main/cat_api.js')
 }
 
+function dogAPI() {
+  open('https://github.com/yeageurr/api_v2/blob/main/dog_api.js');
+}
+
+function quoteAPI() {
+  open('https://github.com/yeageurr/api_v2/blob/main/quote.js');
+}

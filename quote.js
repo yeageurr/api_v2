@@ -1,6 +1,5 @@
 document.getElementById('removeImg').addEventListener('click', ()=> {
   document.querySelector('.label').innerHTML = 'Quote will appear here.';
-  document.querySelector('.label').style.fontStyle = 'none';
 });
 
 document.getElementById('getQuote').addEventListener('click', ()=>{
